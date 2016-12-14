@@ -1,0 +1,121 @@
+Importer Log Report
+Project : rodent_v1.0.PrjPcb
+
+Section : Analyze Document - C:\EAGLE-7.2.0\lbr\con-lstb.lbr
+    Analyzing data of C:\EAGLE-7.2.0\lbr\con-lstb.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 41
+    Load Symbols 24
+    Load DeviceSets 41
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.2.0\lbr\jumper.lbr
+    Analyzing data of C:\EAGLE-7.2.0\lbr\jumper.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 40
+    Load Symbols 21
+    Load DeviceSets 31
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.2.0\lbr\STM32F4-DISCOVERY.lbr
+    Analyzing data of C:\EAGLE-7.2.0\lbr\STM32F4-DISCOVERY.lbr
+    Load settings
+    Load layers 113
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.2.0\lbr\supply1.lbr
+    Analyzing data of C:\EAGLE-7.2.0\lbr\supply1.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 0
+    Load Symbols 29
+    Load DeviceSets 28
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.2.0\lbr\switch-tact.lbr
+    Analyzing data of C:\EAGLE-7.2.0\lbr\switch-tact.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 4
+    Load Symbols 2
+    Load DeviceSets 4
+EndSection
+
+Section : Analyze Document - C:\EAGLE-7.2.0\lbr\TB6612FNG.lbr
+    Analyzing data of C:\EAGLE-7.2.0\lbr\TB6612FNG.lbr
+    Load settings
+    Load layers 59
+    Load Library library
+    Load Library ""
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+EndSection
+
+Section : Analyze Document - C:\Users\osk\Documents\eagle\rodent_v1.0\rodent_v1.0.brd
+    Analyzing data of C:\Users\osk\Documents\eagle\rodent_v1.0\rodent_v1.0.brd
+    Load settings
+    Load layers 115
+    Load Library "con-lstb"
+    Load Packages 5
+    Load Library "STM32F4-DISCOVERY"
+    Load Packages 1
+    Load Library "jumper"
+    Load Packages 2
+    Load Library "TB6612FNG"
+    Load Packages 1
+    Load Library "switch-tact"
+    Load Packages 1
+    ERROR: Unhandled typeerrors
+EndSection
+
+Section : Analyze Document - C:\Users\osk\Documents\eagle\rodent_v1.0\rodent_v1.0.sch
+    Analyzing data of C:\Users\osk\Documents\eagle\rodent_v1.0\rodent_v1.0.sch
+    Load settings
+    Load layers 115
+    Load schematic
+    Load Libraries 6
+    Load Library "con-lstb"
+    Load Packages 5
+    Load Symbols 5
+    Load DeviceSets 5
+    Load Library "STM32F4-DISCOVERY"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "supply1"
+    Load Packages 0
+    Load Symbols 3
+    Load DeviceSets 3
+    Load Library "jumper"
+    Load Packages 3
+    Load Symbols 2
+    Load DeviceSets 2
+    Load Library "TB6612FNG"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Library "switch-tact"
+    Load Packages 1
+    Load Symbols 1
+    Load DeviceSets 1
+    Load Attributes 0
+    Load Classes 1
+    Load Parts 63
+    Load Sheets 1
+EndSection
